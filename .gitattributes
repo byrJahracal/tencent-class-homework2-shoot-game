@@ -1,0 +1,4 @@
+*.exe filter=lfs diff=lfs merge=lfs -text
+ShootGame2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset filter=lfs diff=lfs merge=lfs -text
+ShootGame2/Saved/StagedBuilds/WindowsNoEditor/ShootGame2/Content/Paks/ShootGame2-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text
+ShootGame2/WindowsNoEditor/ShootGame2/Content/Paks/ShootGame2-WindowsNoEditor.pak filter=lfs diff=lfs merge=lfs -text

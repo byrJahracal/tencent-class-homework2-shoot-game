@@ -1,0 +1,1438 @@
+﻿Log file open, 11/23/21 23:27:25
+LogInit: LLM is enabled
+LogInit: LLM CsvWriter: off TraceWriter: off
+LogInit: Display: Running engine for game: ShootGame2
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 47 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.161427
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: +8:00, Platform Override: ''
+LogPluginManager: Mounting plugin MeshPainting
+LogPluginManager: Mounting plugin XGEController
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin EnvironmentQueryEditor
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CameraShakePreviewer
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin PlasticSourceControl
+LogPluginManager: Mounting plugin PluginUtils
+LogPluginManager: Mounting plugin PropertyAccessNode
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin RiderSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin LuminPlatformFeatures
+LogPluginManager: Mounting plugin MagicLeapLightEstimation
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin MagicLeapPassableWorld
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin Niagara
+LogPluginManager: Mounting plugin MLSDK
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin TemplateSequence
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AssetTags
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin AudioSynesthesia
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin ChunkDownloader
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin GooglePAD
+LogPluginManager: Mounting plugin ScreenshotTools
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin PostSplashScreen
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin PropertyAccessEditor
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SoundFields
+LogPluginManager: Mounting plugin Synthesis
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin GeometryMode
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin ChaosCloth
+LogPluginManager: Mounting plugin ChaosEditor
+LogPluginManager: Mounting plugin ChaosClothEditor
+LogPluginManager: Mounting plugin ChaosNiagara
+LogPluginManager: Mounting plugin ChaosSolverPlugin
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin GeometryCollectionPlugin
+LogPluginManager: Mounting plugin GeometryProcessing
+LogPluginManager: Mounting plugin PlanarCut
+LogPluginManager: Mounting plugin MotoSynth
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin ContentBrowserAssetDataSource
+LogPluginManager: Mounting plugin ContentBrowserClassDataSource
+LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+LogInit: Build: ++UE4+Release-4.26-CL-15973114
+LogInit: Engine Version: 4.26.2-15973114+++UE4+Release-4.26
+LogInit: Compatible Engine Version: 4.26.0-14830424+++UE4+Release-4.26
+LogInit: Net CL: 14830424
+LogInit: OS: Windows 10 (Release 2009) (), CPU: 11th Gen Intel(R) Core(TM) i7-11700 @ 2.50GHz, GPU: NVIDIA GeForce RTX 3060 Ti
+LogInit: Compiled (64-bit): Apr 12 2021 06:14:10
+LogInit: Compiled with Visual C++: 19.24.28315.00
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.26
+LogInit: Command Line: 
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.26/Engine/Binaries/Win64/
+LogInit: Allocator: TBB
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 29
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 4
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 40
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 37
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 3
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 4
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 44
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 12
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 3
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 15
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 43
+LogDevObjectVersion:   FortniteRelease (E7086368-6B23-4C58-8439-1B7016265E91): 1
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 10
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 10
+LogDevObjectVersion:   Dev-Physics-Ext (35F94A83-E258-406C-A318-09F59610247C): 40
+LogDevObjectVersion:   Dev-PhysicsMaterial-Chaos (B68FC16E-8B1B-42E2-B453-215C058844FE): 1
+LogDevObjectVersion:   Dev-CineCamera (B2E18506-4273-CFC2-A54E-F4BB758BBA07): 1
+LogDevObjectVersion:   Dev-VirtualProduction (64F58936-FD1B-42BA-BA96-7289D5D0FA4E): 1
+LogDevObjectVersion:   Dev-MediaFramework (6F0ED827-A609-4895-9C91-998D90180EA4): 2
+LogInit: Presizing for max 25165824 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[s.FlushStreamingOnExit:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:25165824]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Setting CVar [[gc.MultithreadedDestructionEnabled:1]]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:950][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-15.27.25:954][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-15.27.25:954][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2021.11.23-15.27.25:954][  0]LogHAL: Display: Platform has ~ 32 GB [34235600896 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2021.11.23-15.27.25:954][  0]LogInit: Going up to parent DeviceProfile []
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2021.11.23-15.27.25:954][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.VT.MaxAnisotropy:8]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSR.HalfResSceneColor:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.AnisotropicMaterials:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SSGI.Quality:3]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.FastApplyOnOpaque:1 ; Always have FastSkyLUT 1 in this case to avoid wrong sky]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.SampleCountMaxPerSlice:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.AerialPerspectiveLUT.DepthResolution:16.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT:1]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMin:4.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.FastSkyLUT.SampleCountMax:128.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMin:4.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.SampleCountMax:128.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.UseSmallFormat:0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.TransmittanceLUT.SampleCount:10.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.SkyAtmosphere.MultiScatteringLUT.SampleCount:15.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [ShadingQuality@3] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Scalability.ini]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyLighting.IntegrationType:2]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.HairStrands.SkyAO.SampleCount:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Setting CVar [[r.HairStrands.Visibility.MSAA.SamplePerPixel:4]]
+[2021.11.23-15.27.25:955][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2021.11.23-15.27.25:956][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2021.11.23-15.27.25:956][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2021.11.23-15.27.25:956][  0]LogConfig: Setting CVar [[fx.SkipVectorVMBackendOptimizations:1]]
+[2021.11.23-15.27.25:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Engine.ini]
+[2021.11.23-15.27.25:956][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Config/Windows/Editor.ini]
+[2021.11.23-15.27.25:956][  0]LogInit: Computer: DESKTOP-6JUEP27
+[2021.11.23-15.27.25:956][  0]LogInit: User: 王苑亨
+[2021.11.23-15.27.25:956][  0]LogInit: CPU Page size=4096, Cores=8
+[2021.11.23-15.27.25:956][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2021.11.23-15.27.25:956][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2021.11.23-15.27.25:956][  0]LogMemory: Platform Memory Stats for Windows
+[2021.11.23-15.27.25:956][  0]LogMemory: Process Physical Memory: 141.17 MB used, 141.18 MB peak
+[2021.11.23-15.27.25:956][  0]LogMemory: Process Virtual Memory: 130.18 MB used, 130.18 MB peak
+[2021.11.23-15.27.25:956][  0]LogMemory: Physical Memory: 7521.57 MB used,  25128.05 MB free, 32649.61 MB total
+[2021.11.23-15.27.25:956][  0]LogMemory: Virtual Memory: 134191264.00 MB used,  26467.12 MB free, 134217728.00 MB total
+[2021.11.23-15.27.25:959][  0]LogWindows: WindowsPlatformFeatures enabled
+[2021.11.23-15.27.25:982][  0]LogInit: Physics initialised using underlying interface: PhysX
+[2021.11.23-15.27.25:982][  0]LogInit: Overriding language with editor language configuration option (en).
+[2021.11.23-15.27.25:982][  0]LogInit: Using OS detected locale (zh-CN).
+[2021.11.23-15.27.26:088][  0]LogInit: Setting process to per monitor DPI aware
+[2021.11.23-15.27.26:110][  0]LogWindowsTextInputMethodSystem: Display: IME system deactivated.
+[2021.11.23-15.27.26:116][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2021.11.23-15.27.26:116][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2021.11.23-15.27.26:194][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-15.27.26:194][  0]LogD3D11RHI: D3D11 min allowed feature level: 11_0
+[2021.11.23-15.27.26:194][  0]LogD3D11RHI: D3D11 max allowed feature level: 11_0
+[2021.11.23-15.27.26:194][  0]LogD3D11RHI: D3D11 adapters:
+[2021.11.23-15.27.26:273][  0]LogD3D11RHI:    0. 'NVIDIA GeForce RTX 3060 Ti' (Feature Level 11_0)
+[2021.11.23-15.27.26:273][  0]LogD3D11RHI:       8050/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2021.11.23-15.27.26:274][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2021.11.23-15.27.26:274][  0]LogD3D11RHI:       0/0/16324 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2021.11.23-15.27.26:274][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2021.11.23-15.27.26:278][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2021.11.23-15.27.26:278][  0]LogD3D11RHI:     GPU DeviceId: 0x2489 (for the marketing name, search the web for "GPU Device Id")
+[2021.11.23-15.27.26:278][  0]LogWindows: EnumDisplayDevices:
+[2021.11.23-15.27.26:278][  0]LogWindows:    0. 'NVIDIA GeForce RTX 3060 Ti' (P:1 D:1)
+[2021.11.23-15.27.26:278][  0]LogWindows:    1. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.23-15.27.26:279][  0]LogWindows:    2. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.23-15.27.26:279][  0]LogWindows:    3. 'NVIDIA GeForce RTX 3060 Ti' (P:0 D:0)
+[2021.11.23-15.27.26:279][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2021.11.23-15.27.26:279][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce RTX 3060 Ti
+[2021.11.23-15.27.26:279][  0]LogD3D11RHI:   Driver Version: 471.41 (internal:30.0.14.7141, unified:471.41)
+[2021.11.23-15.27.26:279][  0]LogD3D11RHI:      Driver Date: 7-12-2021
+[2021.11.23-15.27.26:279][  0]LogRHI: Texture pool is 5635 MB (70% of 8050 MB)
+[2021.11.23-15.27.26:332][  0]LogD3D11RHI: RHI has support for 64 bit atomics
+[2021.11.23-15.27.26:332][  0]LogD3D11RHI: Async texture creation enabled
+[2021.11.23-15.27.26:332][  0]LogD3D11RHI: Array index from any shader is supported
+[2021.11.23-15.27.26:353][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2021.11.23-15.27.26:353][  0]LogRHI: GeForceNow SDK initialized: 1
+[2021.11.23-15.27.26:557][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2021.11.23-15.27.26:571][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2021.11.23-15.27.26:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2021.11.23-15.27.26:586][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2021.11.23-15.27.26:593][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2021.11.23-15.27.26:598][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2021.11.23-15.27.26:603][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2021.11.23-15.27.26:609][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2021.11.23-15.27.26:614][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2021.11.23-15.27.26:619][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2021.11.23-15.27.26:624][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2021.11.23-15.27.26:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2021.11.23-15.27.26:640][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2021.11.23-15.27.26:645][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2021.11.23-15.27.26:650][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2021.11.23-15.27.26:655][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2021.11.23-15.27.26:660][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2021.11.23-15.27.26:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2021.11.23-15.27.26:669][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2021.11.23-15.27.26:675][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2021.11.23-15.27.26:681][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2021.11.23-15.27.26:686][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2021.11.23-15.27.26:691][  0]LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2021.11.23-15.27.26:691][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2021.11.23-15.27.26:696][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2021.11.23-15.27.26:731][  0]LogRendererCore: Ray tracing is disabled. Reason: r.RayTracing=0.
+[2021.11.23-15.27.26:731][  0]LogShaderCompilers: Guid format shader working directory is -22 characters bigger than the processId version (D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Intermediate/Shaders/WorkingDirectory/3688/).
+[2021.11.23-15.27.26:731][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/王苑亨/AppData/Local/Temp/UnrealShaderWorkingDir/4AF67B99466373D742D8FA95CF922B79/'.
+[2021.11.23-15.27.26:731][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2021.11.23-15.27.26:731][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2021.11.23-15.27.27:255][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: Loaded boot cache 0.03s 77MB C:/Users/王苑亨/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/王苑亨/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-15.27.27:289][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2021.11.23-15.27.27:297][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2021.11.23-15.27.27:297][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2021.11.23-15.27.27:297][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2021.11.23-15.27.27:303][  0]LogDerivedDataCache: Speed tests for C:/Users/王苑亨/AppData/Local/UnrealEngine/Common/DerivedDataCache took 0.01 seconds
+[2021.11.23-15.27.27:303][  0]LogDerivedDataCache: Display: Performance to C:/Users/王苑亨/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.01ms. RandomReadSpeed=391.09MBs, RandomWriteSpeed=303.90MBs. Assigned SpeedClass 'Local'
+[2021.11.23-15.27.27:303][  0]LogDerivedDataCache: Using Local data cache path C:/Users/王苑亨/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2021.11.23-15.27.27:303][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2021.11.23-15.27.27:303][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2021.11.23-15.27.27:337][  0]LogSlate: Using FreeType 2.10.0
+[2021.11.23-15.27.27:338][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2021.11.23-15.27.27:354][  0]LogAssetRegistry: FAssetRegistry took 0.0020 seconds to start up
+[2021.11.23-15.27.27:503][  0]LogInit: Selected Device Profile: [Windows]
+[2021.11.23-15.27.27:503][  0]LogInit: Active device profile: [0000021C93772300][0000021C92562980 49] Windows
+[2021.11.23-15.27.27:503][  0]LogInit: Profiles: [0000021C93772300][0000021C92562980 49] Windows, [0000021C9371E900][0000021C9256AB00 49] WindowsNoEditor, [0000021C93771400][0000021C92EA2C80 49] WindowsServer, [0000021C9371F800][0000021C92EA6E00 49] WindowsClient, [0000021C93770700][0000021C92EAAF80 49] IOS, [0000021C9371EF00][0000021C92EAF100 49] iPadAir, [0000021C93772100][0000021C92EB3280 49] iPadAir2, [0000021C936C2000][0000021C92EBB540 49] IPadPro, [0000021C936C2100][0000021C92EB7580 49] iPadAir3, [0000021C9371D600][0000021C925676C0 49] iPadAir4, [0000021C936C3800][0000021C92EBF800 49] iPadMini2, [0000021C9371ED00][0000021C92EC3940 49] iPadMini3, [0000021C936C1700][0000021C92ECBAC0 49] iPadMini4, [0000021C9371FF00][0000021C92ECFC40 49] iPadMini5, [0000021C936FD900][0000021C92ED6240 49] iPhone6, [0000021C936FDA00][0000021C92ED2280 49] iPodTouch6, [0000021C93772F00][0000021C92EDE540 49] iPhone7, [0000021C93773100][0000021C92EDA580 49] iPodTouch7, [0000021C936FE800][0000021C92EE2700 49] iPhone5S, [0000021C93770100][0000021C92EE6880 49] iPhone6Plus, [0000021C936FF400][0000021C92EEAA00 49] iPhone6S, [0000021C93773B00][0000021C92EEEB80 49] iPhone6SPlus, [0000021C936FDF00][0000021C92EF2D00 49] iPhone7Plus, [0000021C93770500][0000021C92EF6E80 49] iPhoneSE, [0000021C936FCB00][0000021C92EFB000 49] iPhone8, [0000021C93773400][0000021C92EFF180 49] iPhone8Plus, [0000021C936FC800][0000021C92F03300 49] iPhoneX, [0000021C93772A00][0000021C92F07480 49] iPhoneXS, [0000021C9371CC00][0000021C92F0B600 49] iPhoneXSMax, [0000021C936FD600][0000021C92EC7740 49] iPhoneXR, [0000021C9371FB00][0000021C92F0F880 49] iPhone11, [0000021C936FC500][0000021C92F139C0 49] iPhone11Pro, [0000021C9371C300][0000021C92F1BB40 49] iPhone11ProMax, [0000021C936FD100][0000021C92F1FCC0 49] iPhoneSE2, [0000021C9371CF00][0000021C92F22180 49] iPhone12Mini, [0000021C936FE500][0000021C92F26300 49] iPhone12, [0000021C9371C100][0000021C92F2A480 49] iPhone12Pro, [0000021C936FD000][0000021C92F2E600 49] iPhone12ProMax, [0000021C9371D700][0000021C92F32780 49] iPadPro105, [0000021C936FFD00][0000021C92F36900 49] iPadPro129, [0000021C93772B00][0000021C92F3AA80 49] iPadPro97, [0000021C936FDD00][0000021C92F3EC00 49] iPadPro2_129, [0000021C93771500][0000021C92F42D80 49] iPad5, [0000021C936FF600][0000021C92F46F00 49] iPad6, [0000021C93770600][0000021C92F4B080 49] iPad7, [0000021C936FE700][0000021C92F4F200 49] iPad8, [0000021C93773000][0000021C92F53380 49] iPadPro11, [0000021C936FDE00][0000021C92F57500 49] iPadPro2_11, [0000021C93770C00][0000021C92F5B680 49] iPadPro3_129, [0000021C936FEA00][0000021C92F177C0 49] iPadPro4_129, [0000021C93771B00][0000021C92F5F900 49] AppleTV, [0000021C936FFE00][0000021C92F63A40 49] AppleTV4K, [0000021C93770300][0000021C92F67B80 49] TVOS, [0000021C936FFB00][0000021C92F6FD00 49] Mac, [0000021C93771A00][0000021C92F721C0 49] MacClient, [0000021C936FF000][0000021C92F76340 49] MacNoEditor, [0000021C93772D00][0000021C92F7A4C0 49] MacServer, [0000021C936FEE00][0000021C92F7E640 49] Linux, [0000021C93773800][0000021C92F827C0 49] LinuxAArch64, [0000021C936FCF00][0000021C92F86940 49] LinuxNoEditor, [0000021C93771000][0000021C92F8AAC0 49] LinuxAArch64NoEditor, [0000021C936FF200][0000021C92F8EC40 49] LinuxClient, [0000021C93771F00][0000021C92F92DC0 49] LinuxAArch64Client, [0000021C936FCE00][0000021C92F96F40 49] LinuxServer, [0000021C93771C00][0000021C92F9B0C0 49] LinuxAArch64Server, [0000021C936FE100][0000021C92F9F240 49] Android, [0000021C93773500][0000021C92FA33C0 49] Android_Low, [0000021C936FF100][0000021C92FA7540 49] Android_Mid, [0000021C93770400][0000021C92FAB6C0 49] Android_High, [0000021C936FFF00][0000021C92F6B800 49] Android_Default, [0000021C93770B00][0000021C92FAF940 49] Android_Adreno4xx, [0000021C936FDB00][0000021C92FB3A80 49] Android_Adreno5xx_Low, [0000021C93770200][0000021C92FB7BC0 49] Android_Adreno5xx, [0000021C936FEB00][0000021C92FBFD40 49] Android_Adreno6xx, [0000021C93771200][0000021C92FC2200 49] Android_Adreno6xx_Vulkan, [0000021C936FF800][0000021C92FC6380 49] Android_Mali_T6xx, [0000021C93772200][0000021C92FCA500 49] Android_Mali_T7xx, [0000021C936FE300][0000021C92FCE680 49] Android_Mali_T8xx, [0000021C936C2900][0000021C92FD2800 49] Android_Mali_G71, [0000021C9371C600][0000021C92FD6980 49] Android_Mali_G72, [0000021C936C1B00][0000021C92FDAB00 49] Android_Mali_G72_Vulkan, [0000021C9371D900][0000021C92FDEC80 49] Android_Mali_G76, [0000021C936C0800][0000021C92FE2E00 49] Android_Mali_G76_Vulkan, [0000021C9371E500][0000021C92FE6F80 49] Android_Mali_G77, [0000021C936C0300][0000021C92FEB100 49] Android_Mali_G77_Vulkan, [0000021C9371C800][0000021C92FEF280 49] Android_Vulkan_SM5, [0000021C936C1D00][0000021C92FF3400 49] Android_PowerVR_G6xxx, [0000021C9371FE00][0000021C92FF7580 49] Android_PowerVR_GT7xxx, [0000021C936C3900][0000021C92FFB700 49] Android_PowerVR_GE8xxx, [0000021C9371F600][0000021C92FFF880 49] Android_PowerVR_GM9xxx, [0000021C936C0A00][0000021C92FBB9C0 49] Android_PowerVR_GM9xxx_Vulkan, [0000021C9371FC00][0000021C93003B00 49] Android_TegraK1, [0000021C936C1F00][0000021C93007C40 49] Android_Unknown_Vulkan, [0000021C9371D800][0000021C9300E100 49] Lumin, [0000021C936C2D00][0000021C93022280 49] Lumin_Desktop, [0000021C9371E100][0000021C93026400 49] HoloLens, 
+[2021.11.23-15.27.27:534][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2021.11.23-15.27.27:534][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2021.11.23-15.27.27:534][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2021.11.23-15.27.27:534][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2021.11.23-15.27.27:534][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2021.11.23-15.27.27:590][  0]LogNetVersion: ShootGame2 1.0.0, NetCL: 14830424, EngineNetVer: 16, GameNetVer: 0 (Checksum: 3165201913)
+[2021.11.23-15.27.27:868][  0]LogHMD: PokeAHoleMaterial loaded successfully
+[2021.11.23-15.27.27:884][  0]LogPackageLocalizationCache: Processed 22 localized package path(s) for 1 prioritized culture(s) in 0.015476 seconds
+[2021.11.23-15.27.27:886][  0]LogUObjectArray: 16831 objects as part of root set at end of initial load.
+[2021.11.23-15.27.27:886][  0]LogUObjectAllocator: 4209728 out of 0 bytes used by permanent object pool.
+[2021.11.23-15.27.27:886][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2021.11.23-15.27.28:097][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2021.11.23-15.27.28:101][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2021.11.23-15.27.28:155][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:155][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:157][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:158][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:162][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:167][  0]LogUProjectInfo: Found projects:
+[2021.11.23-15.27.28:210][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2021.11.23-15.27.28:222][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-15.27.28:222][  0]LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2021.11.23-15.27.28:354][  0]LogOcInput: OculusInput pre-init called
+[2021.11.23-15.27.28:360][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2021.11.23-15.27.28:360][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2021.11.23-15.27.28:365][  0]LogCollectionManager: Loaded 0 collections in 0.000968 seconds
+[2021.11.23-15.27.28:400][  0]LogFileCache: Scanning file cache for directory 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Collections/' took 0.00s
+[2021.11.23-15.27.28:400][  0]LogFileCache: Scanning file cache for directory 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Developers/王苑亨/Collections/' took 0.00s
+[2021.11.23-15.27.28:400][  0]LogFileCache: Scanning file cache for directory 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Collections/' took 0.00s
+[2021.11.23-15.27.28:400][  0]LogEngine: Initializing Engine...
+[2021.11.23-15.27.28:401][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2021.11.23-15.27.28:401][  0]LogMagicLeap: Warning: VR disabled because ZI is not enabled.  To enable, in the editor, Edit -> Project Settings -> Plugins -> Magic Leap Plugin -> Enable Zero Iteration
+[2021.11.23-15.27.28:401][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2021.11.23-15.27.28:467][  0]LogInit: Initializing FReadOnlyCVARCache
+[2021.11.23-15.27.28:471][  0]LogAIModule: Creating AISystem for world Untitled
+[2021.11.23-15.27.28:477][  0]LogAudio: Display: Initializing Audio Device Manager...
+[2021.11.23-15.27.28:480][  0]LogAudio: Display: Audio Device Manager Initialized
+[2021.11.23-15.27.28:480][  0]LogAudio: Display: Creating Audio Device:                 Id: 1, Scope: Shared, Realtime: True
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.11.23-15.27.28:480][  0]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.11.23-15.27.28:480][  0]LogAudio: Display: Using built-in audio occlusion.
+[2021.11.23-15.27.28:480][  0]LogAudioMixer: Display: Initializing audio mixer.
+[2021.11.23-15.27.28:488][  0]LogAudioMixer: Display: 0: FrontLeft
+[2021.11.23-15.27.28:488][  0]LogAudioMixer: Display: 1: FrontRight
+[2021.11.23-15.27.28:508][  0]LogAudioMixer: Display: Using Audio Device 扬声器 (Realtek(R) Audio)
+[2021.11.23-15.27.28:508][  0]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.11.23-15.27.28:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.11.23-15.27.28:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.11.23-15.27.28:510][  0]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.11.23-15.27.28:510][  0]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.11.23-15.27.28:510][  0]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.11.23-15.27.28:511][  0]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.11.23-15.27.28:511][  0]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.11.23-15.27.28:511][  0]LogInit: FAudioDevice initialized.
+[2021.11.23-15.27.28:511][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'Untitled'.
+[2021.11.23-15.27.28:511][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2021.11.23-15.27.28:543][  0]LogDerivedDataCache: Saved boot cache 0.03s 77MB C:/Users/王苑亨/AppData/Local/UnrealEngine/4.26/DerivedDataCache/Boot.ddc.
+[2021.11.23-15.27.28:544][  0]LogInit: Texture streaming: Enabled
+[2021.11.23-15.27.28:551][  0]LogAnalytics: Display: [UEEditor.Rocket.Release] APIServer = https://datarouter.ol.epicgames.com/. AppVersion = 4.26.2-15973114+++UE4+Release-4.26
+[2021.11.23-15.27.28:553][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2021.11.23-15.27.28:553][  0]LogEditorSessionSummary: Verbose: Initializing EditorSessionSummaryWriter for editor session tracking
+[2021.11.23-15.27.28:554][  0]LogEditorSessionSummary: EditorSessionSummaryWriter initialized
+[2021.11.23-15.27.28:567][  0]LogInit: Transaction tracking system initialized
+[2021.11.23-15.27.28:579][  0]BlueprintLog: New page: Editor Load
+[2021.11.23-15.27.28:619][  0]LocalizationService: Localization service is disabled
+[2021.11.23-15.27.28:633][  0]TimingProfiler: Initialize
+[2021.11.23-15.27.28:633][  0]TimingProfiler: OnSessionChanged
+[2021.11.23-15.27.28:633][  0]LoadingProfiler: Initialize
+[2021.11.23-15.27.28:633][  0]LoadingProfiler: OnSessionChanged
+[2021.11.23-15.27.28:633][  0]NetworkingProfiler: Initialize
+[2021.11.23-15.27.28:633][  0]NetworkingProfiler: OnSessionChanged
+[2021.11.23-15.27.28:633][  0]MemoryProfiler: Initialize
+[2021.11.23-15.27.28:633][  0]MemoryProfiler: OnSessionChanged
+[2021.11.23-15.27.28:718][  0]LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2021.11.23-15.27.28:718][  0]LogCook: Display: Mobile HDR setting 1
+[2021.11.23-15.27.28:811][  0]LogFileCache: Scanning file cache for directory 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/' took 0.00s
+[2021.11.23-15.27.28:936][  0]LogInit: Display: Engine is initialized. Leaving FEngineLoop::Init()
+[2021.11.23-15.27.28:938][  0]SourceControl: Source control is disabled
+[2021.11.23-15.27.28:938][  0]LogUnrealEdMisc: Loading editor; pre map load, took 3.572
+[2021.11.23-15.27.28:938][  0]Cmd: MAP LOAD FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.11.23-15.27.28:938][  0]LightingResults: New page: Lighting Build
+[2021.11.23-15.27.28:938][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.27.28:938][  0]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.27.28:939][  0]MapCheck: New page: Map Check
+[2021.11.23-15.27.28:939][  0]LightingResults: New page: Lighting Build
+[2021.11.23-15.27.28:943][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.11.23-15.27.29:094][  0]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.11.23-15.27.29:094][  0]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.11.23-15.27.29:107][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.11.23-15.27.29:112][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.23-15.27.29:112][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.11.23-15.27.29:112][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.075ms to complete.
+[2021.11.23-15.27.29:112][  0]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.175
+[2021.11.23-15.27.29:113][  0]LogUnrealEdMisc: Total Editor Startup Time, took 3.748
+[2021.11.23-15.27.29:232][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-15.27.29:236][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-15.27.29:240][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-15.27.29:243][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.11.23-15.27.29:252][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy populated in 0.0060 seconds. Added 3601 classes and 859 folders.
+[2021.11.23-15.27.29:253][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'WidgetCarousel' in 0.0001 seconds. Added 0 classes and 0 folders.
+[2021.11.23-15.27.29:254][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-15.27.29:254][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:254][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-15.27.29:254][  0]LogPakFile: OnPakFileMounted2Time == 0.000004
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-15.27.29:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000005
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PrimaryIndexSize=191
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=160
+[2021.11.23-15.27.29:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000006
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:255][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-15.27.29:255][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-15.27.29:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000007
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-15.27.29:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000008
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-15.27.29:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000009
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:256][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-15.27.29:256][  0]LogPakFile: OnPakFileMounted2Time == 0.000010
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-15.27.29:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PrimaryIndexSize=182
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=138
+[2021.11.23-15.27.29:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000011
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PrimaryIndexSize=184
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:257][  0]LogPakFile: PakFile FullDirectoryIndexSize=142
+[2021.11.23-15.27.29:257][  0]LogPakFile: OnPakFileMounted2Time == 0.000012
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-15.27.29:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000013
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-15.27.29:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-15.27.29:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000014
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PrimaryIndexSize=190
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:258][  0]LogPakFile: PakFile FullDirectoryIndexSize=154
+[2021.11.23-15.27.29:258][  0]LogPakFile: OnPakFileMounted2Time == 0.000015
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-15.27.29:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000016
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PrimaryIndexSize=189
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=152
+[2021.11.23-15.27.29:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-15.27.29:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000017
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:259][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-15.27.29:259][  0]LogPakFile: OnPakFileMounted2Time == 0.000018
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-15.27.29:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000019
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PrimaryIndexSize=187
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=148
+[2021.11.23-15.27.29:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PrimaryIndexSize=183
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile FullDirectoryIndexSize=140
+[2021.11.23-15.27.29:260][  0]LogPakFile: OnPakFileMounted2Time == 0.000020
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PrimaryIndexSize=186
+[2021.11.23-15.27.29:260][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=146
+[2021.11.23-15.27.29:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000021
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile PrimaryIndexSize=188
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=150
+[2021.11.23-15.27.29:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000022
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile PrimaryIndexSize=185
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:261][  0]LogPakFile: PakFile FullDirectoryIndexSize=144
+[2021.11.23-15.27.29:261][  0]LogPakFile: OnPakFileMounted2Time == 0.000023
+[2021.11.23-15.27.29:262][  0]LogPakFile: PakFile PrimaryIndexSize=192
+[2021.11.23-15.27.29:262][  0]LogPakFile: PakFile PathHashIndexSize=101
+[2021.11.23-15.27.29:262][  0]LogPakFile: PakFile FullDirectoryIndexSize=158
+[2021.11.23-15.27.29:262][  0]LogPakFile: OnPakFileMounted2Time == 0.000024
+[2021.11.23-15.27.29:285][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.23-15.27.29:286][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 2 classes and 0 folders.
+[2021.11.23-15.27.29:318][  0]LogSlate: Took 0.000121 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2021.11.23-15.27.29:319][  0]LogSlate: Took 0.000070 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2021.11.23-15.27.29:322][  0]LogSlate: Took 0.000066 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2021.11.23-15.27.29:377][  0]LogRenderer: Reallocating scene render targets to support 1288x620 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-15.27.29:495][  0]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2021.11.23-15.27.29:495][  0]LogInput: Warning: Action Jump uses invalid key OculusGo_Left_Trigger_Click.
+[2021.11.23-15.27.29:495][  0]LogInput: Warning: Action ResetVR uses invalid key OculusGo_Left_Trackpad_Click.
+[2021.11.23-15.27.29:495][  0]LogInput: Warning: Use -RemoveInvalidKeys to remove instances of these keys from the action mapping.
+[2021.11.23-15.27.29:495][  0]LogLoad: (Engine Initialization) Total time: 4.13 seconds
+[2021.11.23-15.27.29:495][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2021.11.23-15.27.29:495][  0]LogInit: First time updating LLM stats...
+[2021.11.23-15.27.29:531][  0]LogAssetRegistry: Asset discovery search completed in 2.1768 seconds
+[2021.11.23-15.27.29:532][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
+[2021.11.23-15.27.29:532][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2021.11.23-15.27.34:056][422]LogSlate: Took 0.000091 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-15.27.34:074][422]LogAssetEditorSubsystem: Opening Asset editor for Skeleton /Game/Eric/eric_jack_Skeleton.eric_jack_Skeleton
+[2021.11.23-15.27.34:077][422]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2021.11.23-15.27.34:482][422]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_0:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.27.34:483][422]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2021.11.23-15.27.34:889][423]LogRenderer: Reallocating scene render targets to support 1288x816 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-15.27.36:641][589]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.11.23-15.27.52:759][169]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/eric_jack_Skeleton" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/eric_jack_Skeleton.uasset" SILENT=true
+[2021.11.23-15.27.52:761][169]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/eric_jack_Skeleton5EB495D14F18824496D454931E0D3AA6.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/eric_jack_Skeleton.uasset'
+[2021.11.23-15.27.52:767][169]AssetCheck: New page: Asset Save: eric_jack_Skeleton
+[2021.11.23-15.27.52:767][169]LogContentValidation: Display: Validating Skeleton /Game/Eric/eric_jack_Skeleton.eric_jack_Skeleton
+[2021.11.23-15.27.54:046][313]LogSlate: Window 'eric_jack_Skeleton' being destroyed
+[2021.11.23-15.27.54:050][313]LogSlate: Window 'eric_jack_Skeleton' being destroyed
+[2021.11.23-15.27.54:051][313]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.27.54:051][313]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.28.05:773][480]LogSlate: Took 0.000112 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.11.23-15.28.05:805][480]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.23-15.28.08:455][768]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.28.08:455][768]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.28.08:458][768]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.23-15.28.08:460][768]LogWorld: UWorld::CleanupWorld for World_6, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.28.08:461][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.28.08:467][768]LogWorld: UWorld::CleanupWorld for World_5, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.28.08:467][768]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.28.08:510][769]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.28.09:941][873]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.28.09:970][873]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_7:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.28.10:184][873]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.28.26:515][767]LogSlate: Window 'Aim_Bwd_Rifle' being destroyed
+[2021.11.23-15.28.26:519][767]LogSlate: Window 'Aim_Bwd_Rifle' being destroyed
+[2021.11.23-15.28.26:519][767]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.28.26:519][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.28.26:538][767]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.28.26:538][767]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.28.31:246][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2021.11.23-15.28.33:103][265]LogSlate: Window 'Delete Assets' being destroyed
+[2021.11.23-15.28.33:124][265]LogUObjectGlobals: Force Deleting 1 Package(s):
+	Asset Name: /Game/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.28.33:402][265]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.23-15.30.42:911][ 17]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/characterAsset/Animations/BlendSpaces/BS_Jog_Hands.BS_Jog_Hands
+[2021.11.23-15.30.42:914][ 17]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.30.43:088][ 17]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.31.42:759][156]LogSlate: Window 'BS_Jog_Hands' being destroyed
+[2021.11.23-15.31.42:762][156]LogSlate: Window 'BS_Jog_Hands' being destroyed
+[2021.11.23-15.31.42:762][156]LogWorld: UWorld::CleanupWorld for World_9, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.31.42:762][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.31.42:784][156]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.31.42:784][156]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.31.52:661][178]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/characterAsset/Animations/BlendSpaces/BS_Jog_Rifle.BS_Jog_Rifle
+[2021.11.23-15.31.52:664][178]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.31.52:851][178]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.32.10:427][672]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.23-15.32.14:826][160]LogAnimation: Warning: [Jog_Lt_Hands] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.32.14:828][160]LogAnimation: Warning: [Jog_FwdL_Hands] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.32.14:830][160]LogAnimation: Warning: [Jog_Rt_Hands] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.32.14:832][160]LogAnimation: Warning: [Jog_BwdR_Hands] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.32.14:839][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Idle_Hands.Idle_Hands
+[2021.11.23-15.32.14:839][160]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Hands.Jog_Fwd_Hands
+[2021.11.23-15.32.14:852][160]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.23-15.32.14:855][160]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.32.14:855][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.32.14:862][160]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.32.14:862][160]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.32.14:914][161]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sprint_Fwd_Hands.Sprint_Fwd_Hands
+[2021.11.23-15.32.14:943][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Hands.Jog_Bwd_Hands
+[2021.11.23-15.32.14:943][162]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_BwdR_Hands.Jog_BwdR_Hands
+[2021.11.23-15.32.14:975][163]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Hands.Jog_Rt_Hands
+[2021.11.23-15.32.14:975][163]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_FwdL_Hands.Jog_FwdL_Hands
+[2021.11.23-15.32.15:008][164]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Hands.Jog_Lt_Hands
+[2021.11.23-15.32.28:443][473]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-15.32.28:460][473]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-15.32.49:214][845]LogContentBrowser: Attempting asset rename: NewFolder -> JogHands
+[2021.11.23-15.32.49:214][845]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-15.33.02:618][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/BS_Jog_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/BS_Jog_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:624][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_HandsF8C5DCEE45B27B02687E9F89242037A8.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/BS_Jog_Hands.uasset'
+[2021.11.23-15.33.02:631][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Idle_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Idle_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:636][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Idle_Hands1CEF26624B9F65B9E9BC6D9DC16FF667.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Idle_Hands.uasset'
+[2021.11.23-15.33.02:643][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_Bwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Bwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:647][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_Hands8D2152D5450073FD816528A00126038A.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Bwd_Hands.uasset'
+[2021.11.23-15.33.02:654][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_BwdR_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_BwdR_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:658][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_HandsCE23360B4B6DBB1705253D879ED7D17E.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_BwdR_Hands.uasset'
+[2021.11.23-15.33.02:666][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_Fwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Fwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:669][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_Hands51A39B6942226C782F6D9381FAEB0701.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Fwd_Hands.uasset'
+[2021.11.23-15.33.02:677][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_FwdL_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_FwdL_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:681][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_Hands4DB42E2D4BAC7640DC88F78DAEC9CD5C.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_FwdL_Hands.uasset'
+[2021.11.23-15.33.02:688][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_Lt_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Lt_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:692][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_Hands41E8D0FF4DD1D248F8DD098D237DF65D.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Lt_Hands.uasset'
+[2021.11.23-15.33.02:699][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Jog_Rt_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Rt_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:703][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_Hands96C9DA9D4806074F8977F0AAC9691A9A.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Jog_Rt_Hands.uasset'
+[2021.11.23-15.33.02:711][154]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogHands/Sprint_Fwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Sprint_Fwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.02:715][154]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_Hands0F669F3B4D9BAD64AA7FAC8BAD9660B5.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogHands/Sprint_Fwd_Hands.uasset'
+[2021.11.23-15.33.02:765][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.42ms
+[2021.11.23-15.33.02:770][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2021.11.23-15.33.02:774][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.23-15.33.02:777][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-15.33.02:780][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.33.02:783][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.02:786][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.23-15.33.02:789][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.33.02:792][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.02:799][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.11.23-15.33.02:802][154]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.33.02:835][154]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating BlendSpace /Game/JogHands/BS_Jog_Hands.BS_Jog_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Idle_Hands.Idle_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_Fwd_Hands.Jog_Fwd_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_Lt_Hands.Jog_Lt_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_FwdL_Hands.Jog_FwdL_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_Rt_Hands.Jog_Rt_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_BwdR_Hands.Jog_BwdR_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Jog_Bwd_Hands.Jog_Bwd_Hands
+[2021.11.23-15.33.02:835][154]LogContentValidation: Display: Validating AnimSequence /Game/JogHands/Sprint_Fwd_Hands.Sprint_Fwd_Hands
+[2021.11.23-15.33.06:617][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/BS_Jog_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/BS_Jog_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:623][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_Hands64B269C54D9DD4486352B9A73F61E186.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/BS_Jog_Hands.uasset'
+[2021.11.23-15.33.06:630][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Idle_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Idle_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:635][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Idle_Hands95A06F7247AE7D0B36954FBD18253044.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Idle_Hands.uasset'
+[2021.11.23-15.33.06:642][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_Fwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Fwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:646][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_Hands6096ACAE49EB4024086183BBC8F24F24.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Fwd_Hands.uasset'
+[2021.11.23-15.33.06:653][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_Lt_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Lt_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:657][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_HandsD21CDB3742A6E535500FECA44D63EDC7.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Lt_Hands.uasset'
+[2021.11.23-15.33.06:664][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_FwdL_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_FwdL_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:668][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_HandsA377C7EF46C0EFBC2EC82A83D8E6704C.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_FwdL_Hands.uasset'
+[2021.11.23-15.33.06:675][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_Rt_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Rt_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:679][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_Hands66BED27A4BE8A9A20BA749A971A67173.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Rt_Hands.uasset'
+[2021.11.23-15.33.06:686][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_BwdR_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_BwdR_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:690][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_Hands629CD8E34A70FA53333F389EE67E62A4.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_BwdR_Hands.uasset'
+[2021.11.23-15.33.06:697][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Jog_Bwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Bwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:700][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_HandsB2AC710C49655636116DFAB7A5EB2B6D.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Jog_Bwd_Hands.uasset'
+[2021.11.23-15.33.06:707][425]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogHands/Sprint_Fwd_Hands" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Sprint_Fwd_Hands.uasset" SILENT=true
+[2021.11.23-15.33.06:711][425]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_Hands0019D2C24F30A865F7F52F9C85A0D341.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogHands/Sprint_Fwd_Hands.uasset'
+[2021.11.23-15.33.06:764][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.38ms
+[2021.11.23-15.33.06:767][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:770][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.33.06:773][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:776][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:779][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:782][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:784][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.33.06:788][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.33.06:794][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.33.06:797][425]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.33.06:830][425]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating BlendSpace /Game/Eric/JogHands/BS_Jog_Hands.BS_Jog_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Idle_Hands.Idle_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_Fwd_Hands.Jog_Fwd_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_Lt_Hands.Jog_Lt_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_FwdL_Hands.Jog_FwdL_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_Rt_Hands.Jog_Rt_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_BwdR_Hands.Jog_BwdR_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Jog_Bwd_Hands.Jog_Bwd_Hands
+[2021.11.23-15.33.06:830][425]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogHands/Sprint_Fwd_Hands.Sprint_Fwd_Hands
+[2021.11.23-15.33.51:828][901]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.23-15.33.55:624][283]LogAnimation: Warning: [Jog_Rt_Rifle] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.33.55:627][283]LogAnimation: Warning: [Jog_BwdR_Rifle] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.33.55:630][283]LogAnimation: Warning: [Jog_FwdL_Rifle] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.33.55:634][283]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.11.23-15.33.55:634][283]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.11.23-15.33.55:644][283]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.23-15.33.55:647][283]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.33.55:647][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.33.55:652][283]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.33.55:652][283]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.33.55:699][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.11.23-15.33.55:699][284]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_FwdL_Rifle.Jog_FwdL_Rifle
+[2021.11.23-15.33.55:728][285]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_BwdR_Rifle.Jog_BwdR_Rifle
+[2021.11.23-15.33.55:728][285]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.11.23-15.33.55:760][286]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.11.23-15.34.00:871][733]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-15.34.00:878][733]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-15.34.12:216][ 38]LogContentBrowser: Attempting asset rename: NewFolder -> JogRifler
+[2021.11.23-15.34.12:216][ 38]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-15.34.20:043][907]LogContentBrowser: Attempting asset rename: JogRifler -> JogRifle
+[2021.11.23-15.34.24:203][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Sprint_Fwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:207][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_RifleD1CE1CE34FE662EA9C63A4B999B8314E.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Sprint_Fwd_Rifle.uasset'
+[2021.11.23-15.34.24:215][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/BS_Jog_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/BS_Jog_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:220][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_Rifle797393C7498415E996315C839724653B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/BS_Jog_Rifle.uasset'
+[2021.11.23-15.34.24:227][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_Bwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Bwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:231][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_Rifle4E35AC0F4E9A96849D100BBF548DE5D4.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Bwd_Rifle.uasset'
+[2021.11.23-15.34.24:239][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_BwdR_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_BwdR_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:243][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_Rifle5056D10D4FCFB69DD2A9849246AC5A86.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_BwdR_Rifle.uasset'
+[2021.11.23-15.34.24:251][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_Fwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Fwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:256][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_RifleC6479DCF4D87CCDD30BFA19E4DD74685.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Fwd_Rifle.uasset'
+[2021.11.23-15.34.24:263][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_FwdL_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_FwdL_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:267][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_RifleCEDF5FB94BB34CE309BAECB4C6BC2790.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_FwdL_Rifle.uasset'
+[2021.11.23-15.34.24:276][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_Lt_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Lt_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:280][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_Rifle99169D64466D629B53B4E493BB44FA0B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Lt_Rifle.uasset'
+[2021.11.23-15.34.24:288][245]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/JogRifle/Jog_Rt_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Rt_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.24:292][245]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_Rifle9D382A67435BC730708CD4AF707203D5.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/JogRifle/Jog_Rt_Rifle.uasset'
+[2021.11.23-15.34.24:349][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.23-15.34.24:353][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.23-15.34.24:356][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.24:359][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.24:362][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.24:365][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.24:368][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.24:371][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.24:379][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.23-15.34.24:382][245]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.24:417][245]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_FwdL_Rifle.Jog_FwdL_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_BwdR_Rifle.Jog_BwdR_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating AnimSequence /Game/JogRifle/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.11.23-15.34.24:417][245]LogContentValidation: Display: Validating BlendSpace /Game/JogRifle/BS_Jog_Rifle.BS_Jog_Rifle
+[2021.11.23-15.34.28:538][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Sprint_Fwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Sprint_Fwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:542][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_Rifle2CA50DA944C1BE6D989A0598FE5C0ADF.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Sprint_Fwd_Rifle.uasset'
+[2021.11.23-15.34.28:551][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_FwdL_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_FwdL_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:555][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_RifleAE88A21F49A46B10133A84AE8081B4FA.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_FwdL_Rifle.uasset'
+[2021.11.23-15.34.28:566][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_BwdR_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_BwdR_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:570][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_Rifle9ABACBF44A543AA357D792933F0B6512.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_BwdR_Rifle.uasset'
+[2021.11.23-15.34.28:579][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_Bwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Bwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:583][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_Rifle4D60CFD44984B8D053E443A1C9216ED6.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Bwd_Rifle.uasset'
+[2021.11.23-15.34.28:592][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_Rt_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Rt_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:596][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_RifleDE052E054CA5526A99A92B8036011D98.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Rt_Rifle.uasset'
+[2021.11.23-15.34.28:606][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_Fwd_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Fwd_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:609][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_Rifle6DFC8D634010F0AC6B7C05938B4BACBF.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Fwd_Rifle.uasset'
+[2021.11.23-15.34.28:619][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/Jog_Lt_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Lt_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:622][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_Rifle41C9475F44DB341292D0458D87E0756E.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/Jog_Lt_Rifle.uasset'
+[2021.11.23-15.34.28:632][592]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/JogRifle/BS_Jog_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/BS_Jog_Rifle.uasset" SILENT=true
+[2021.11.23-15.34.28:637][592]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_RifleDE3186FD44E6079C05F6E88DC7B682F6.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/JogRifle/BS_Jog_Rifle.uasset'
+[2021.11.23-15.34.28:700][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.34.28:703][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.28:706][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.28:709][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.28:712][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.28:715][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.28:718][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.28:721][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.34.28:730][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.34.28:733][592]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.28:768][592]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_FwdL_Rifle.Jog_FwdL_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_BwdR_Rifle.Jog_BwdR_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating AnimSequence /Game/Eric/JogRifle/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.11.23-15.34.28:768][592]LogContentValidation: Display: Validating BlendSpace /Game/Eric/JogRifle/BS_Jog_Rifle.BS_Jog_Rifle
+[2021.11.23-15.34.41:430][881]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-15.34.41:463][881]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-15.34.45:214][323]LogContentBrowser: Attempting asset rename: NewFolder -> Animations
+[2021.11.23-15.34.45:214][323]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-15.34.49:542][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_Hands85BAA4CD459FFF7F2BBF838BD21C0B48.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/BS_Jog_Hands.uasset'
+[2021.11.23-15.34.49:554][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Idle_Hands7A5CDD514B6FBAEF8E59E98AC7CBF444.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Idle_Hands.uasset'
+[2021.11.23-15.34.49:565][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_HandsD626BC8D493752163CEFF7BD73A5DE57.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_Fwd_Hands.uasset'
+[2021.11.23-15.34.49:576][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_HandsD478DFB146E3AA7A8BDC70B46939E8BC.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_Lt_Hands.uasset'
+[2021.11.23-15.34.49:587][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_HandsE2BC54B046524C29AE7ED39783EDF7DD.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_FwdL_Hands.uasset'
+[2021.11.23-15.34.49:599][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_Hands5F62053D4A8C2EB9215A29BCEFD31B24.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_Rt_Hands.uasset'
+[2021.11.23-15.34.49:610][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_Hands3D604DB5421DE25D3EB9108607094DDA.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_BwdR_Hands.uasset'
+[2021.11.23-15.34.49:621][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_Hands96EAB87D43612D9231D8F3895502CBEB.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Jog_Bwd_Hands.uasset'
+[2021.11.23-15.34.49:633][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_Hands0A17398B4072105C0B9F1382EF976B2B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogHands/Sprint_Fwd_Hands.uasset'
+[2021.11.23-15.34.49:683][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.34.49:687][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:690][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:692][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.23-15.34.49:695][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:698][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:701][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:704][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:707][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:717][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.23-15.34.49:720][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:791][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Sprint_Fwd_Rifle01006E0B4E4CE12DCB505BA2F2A2F126.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Sprint_Fwd_Rifle.uasset'
+[2021.11.23-15.34.49:804][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_FwdL_RifleE492FBA74C5E400719D94C9D24E82283.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_FwdL_Rifle.uasset'
+[2021.11.23-15.34.49:818][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_BwdR_RifleC2012BB1407274E6B4E3F8B8DB798B04.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_BwdR_Rifle.uasset'
+[2021.11.23-15.34.49:831][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Bwd_RifleF2FF10214F81F48A786CE588FF761695.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_Bwd_Rifle.uasset'
+[2021.11.23-15.34.49:844][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Rt_RifleF4E3C25F497898D7DBF987A5E9D52A52.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_Rt_Rifle.uasset'
+[2021.11.23-15.34.49:857][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Fwd_Rifle4733F0FF4A8850E62C20FAA6291361FD.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_Fwd_Rifle.uasset'
+[2021.11.23-15.34.49:870][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Jog_Lt_RifleFFA9385741F0251762271BA543D8F20F.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/Jog_Lt_Rifle.uasset'
+[2021.11.23-15.34.49:884][710]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/BS_Jog_RifleDC78009043AE5BFA63F742B9E903903D.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/JogRifle/BS_Jog_Rifle.uasset'
+[2021.11.23-15.34.49:933][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.34.49:936][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:939][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2021.11.23-15.34.49:942][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:945][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.34.49:948][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:951][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:954][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:963][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.34.49:966][710]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.34.49:999][710]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Sprint_Fwd_Rifle.Sprint_Fwd_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_FwdL_Rifle.Jog_FwdL_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_BwdR_Rifle.Jog_BwdR_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_Bwd_Rifle.Jog_Bwd_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_Rt_Rifle.Jog_Rt_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_Fwd_Rifle.Jog_Fwd_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogRifle/Jog_Lt_Rifle.Jog_Lt_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating BlendSpace /Game/Eric/Animations/JogRifle/BS_Jog_Rifle.BS_Jog_Rifle
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating BlendSpace /Game/Eric/Animations/JogHands/BS_Jog_Hands.BS_Jog_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Idle_Hands.Idle_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_Fwd_Hands.Jog_Fwd_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_Lt_Hands.Jog_Lt_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_FwdL_Hands.Jog_FwdL_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_Rt_Hands.Jog_Rt_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_BwdR_Hands.Jog_BwdR_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Jog_Bwd_Hands.Jog_Bwd_Hands
+[2021.11.23-15.34.49:999][710]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/JogHands/Sprint_Fwd_Hands.Sprint_Fwd_Hands
+[2021.11.23-15.35.05:963][346]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/characterAsset/Animations/BlendSpaces/BS_ADS_Rifle.BS_ADS_Rifle
+[2021.11.23-15.35.56:083][696]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/characterAsset/Animations/BlendSpaces/BS_Aim_Rifle.BS_Aim_Rifle
+[2021.11.23-15.36.26:548][346]LogAssetEditorSubsystem: Opening Asset editor for BlendSpace /Game/characterAsset/Animations/BlendSpaces/BS_ADS_Rifle.BS_ADS_Rifle
+[2021.11.23-15.38.38:802][630]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/characterAsset/Animations/AnimationSequances/Aim_Bwd_Rifle.Aim_Bwd_Rifle
+[2021.11.23-15.38.41:363][890]LogSlate: Window 'Aim_Bwd_Rifle' being destroyed
+[2021.11.23-15.38.41:367][890]LogSlate: Window 'Aim_Bwd_Rifle' being destroyed
+[2021.11.23-15.38.41:367][890]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.41:367][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.41:373][890]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.41:373][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.41:400][890]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.41:400][890]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.44:651][218]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/characterAsset/Animations/AnimationSequances/Aim_BwdR_Rifle.Aim_BwdR_Rifle
+[2021.11.23-15.38.44:654][218]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_19:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.38.44:858][218]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.38.47:130][456]LogSlate: Window 'Aim_BwdR_Rifle' being destroyed
+[2021.11.23-15.38.47:134][456]LogSlate: Window 'Aim_BwdR_Rifle' being destroyed
+[2021.11.23-15.38.47:134][456]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.47:134][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.47:139][456]LogWorld: UWorld::CleanupWorld for World_21, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.47:139][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.47:169][456]LogWorld: UWorld::CleanupWorld for World_20, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.47:169][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.52:502][ 59]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/characterAsset/Animations/AnimationSequances/SGKAnimations/Aim_Crouch_FwdL_Rifle.Aim_Crouch_FwdL_Rifle
+[2021.11.23-15.38.52:505][ 59]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_22:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.38.52:724][ 59]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.38.54:453][251]LogSlate: Window 'Aim_Crouch_FwdL_Rifle' being destroyed
+[2021.11.23-15.38.54:457][251]LogSlate: Window 'Aim_Crouch_FwdL_Rifle' being destroyed
+[2021.11.23-15.38.54:457][251]LogWorld: UWorld::CleanupWorld for World_22, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.54:457][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.54:461][251]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.54:461][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.38.54:486][251]LogWorld: UWorld::CleanupWorld for World_23, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.38.54:486][251]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.39.02:553][166]LogAssetEditorSubsystem: Opening Asset editor for AnimSequence /Game/characterAsset/Animations/AnimationSequances/Aim_Rt_Rifle.Aim_Rt_Rifle
+[2021.11.23-15.39.02:556][166]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_25:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.39.02:755][166]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.39.04:267][318]LogSlate: Window 'Aim_Rt_Rifle' being destroyed
+[2021.11.23-15.39.04:271][318]LogSlate: Window 'Aim_Rt_Rifle' being destroyed
+[2021.11.23-15.39.04:271][318]LogWorld: UWorld::CleanupWorld for World_25, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.39.04:271][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.39.04:275][318]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.39.04:275][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.39.04:306][318]LogWorld: UWorld::CleanupWorld for World_26, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.39.04:306][318]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.39.22:572][352]LogAssetEditorSubsystem: Opening Asset editor for AimOffsetBlendSpace /Game/characterAsset/Animations/AimOffsets/Aim_Rifle_AO.Aim_Rifle_AO
+[2021.11.23-15.39.22:575][352]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_28:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.39.22:799][352]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2021.11.23-15.39.56:168][710]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.23-15.40.24:234][985]LogUObjectHash: Compacting FUObjectHashTables data took   0.53ms
+[2021.11.23-15.40.24:236][985]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.013
+[2021.11.23-15.40.24:236][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Eric/eric_jack_Skeleton] ([1] browsable assets)...
+[2021.11.23-15.40.24:236][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/Eric/eric_jack_Skeleton]
+[2021.11.23-15.40.24:238][985]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/eric_jack_Skeleton_Auto1F3A1A34A4ECC3CE8987D56B6252DDEEE.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Autosaves/Game/Eric/eric_jack_Skeleton_Auto1.uasset'
+[2021.11.23-15.40.24:238][985]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/characterAsset/Character/Mesh/UE4_Mannequin_Skeleton] ([1] browsable assets)...
+[2021.11.23-15.40.24:238][985]OBJ SavePackage: Finished generating thumbnails for package [/Game/characterAsset/Character/Mesh/UE4_Mannequin_Skeleton]
+[2021.11.23-15.40.24:240][985]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/UE4_Mannequin_Skeleton_Auto103B24E8F4D8BB1C56E120E9448F5C54B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Autosaves/Game/characterAsset/Character/Mesh/UE4_Mannequin_Skeleton_Auto1.uasset'
+[2021.11.23-15.40.24:240][985]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.11.23-15.40.37:575][348]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.23-15.40.37:576][348]LogWorld: UWorld::CleanupWorld for World_31, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.40.37:577][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.40.37:586][348]LogWorld: UWorld::CleanupWorld for World_30, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.40.37:586][348]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.40.37:720][348]LogContentBrowser: Verbose: The majority of assets in the view are of type: Skeleton
+[2021.11.23-15.40.39:974][589]LogAnimation: Warning: [Aim_Rifle_Center] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.40.39:984][589]LogAnimation: Warning: [Aim_Idle_Rifle] Detected previous edited data is invalidated. Clearing transform curve data and Source Data. This can happen if you do retarget another animation to this. If not, please report back to Epic. 
+[2021.11.23-15.40.39:998][589]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_Up.Aim_Rifle_Up
+[2021.11.23-15.40.39:998][589]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_Center.Aim_Rifle_Center
+[2021.11.23-15.40.40:009][589]LogSlate: Window 'Select Skeleton' being destroyed
+[2021.11.23-15.40.40:011][589]LogWorld: UWorld::CleanupWorld for World_33, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.40.40:012][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.40.40:017][589]LogWorld: UWorld::CleanupWorld for World_32, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.40.40:017][589]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.40.40:060][590]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_LeftUp.Aim_Rifle_LeftUp
+[2021.11.23-15.40.40:060][590]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/ADS_Idle_Rifle1.ADS_Idle_Rifle1
+[2021.11.23-15.40.40:137][590]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_LeftDown.Aim_Rifle_LeftDown
+[2021.11.23-15.40.40:170][591]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Idle_Rifle.Aim_Idle_Rifle
+[2021.11.23-15.40.40:170][591]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_RightDown.Aim_Rifle_RightDown
+[2021.11.23-15.40.40:253][592]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_RightUp.Aim_Rifle_RightUp
+[2021.11.23-15.40.40:287][593]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_Right.Aim_Rifle_Right
+[2021.11.23-15.40.40:287][593]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_Left.Aim_Rifle_Left
+[2021.11.23-15.40.40:319][594]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/Aim_Rifle_Down.Aim_Rifle_Down
+[2021.11.23-15.41.22:539][191]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.11.23-15.41.22:555][191]LogContentBrowser: Creating deferred item: NewFolder
+[2021.11.23-15.41.28:800][929]LogContentBrowser: Attempting asset rename: NewFolder -> AimOffset
+[2021.11.23-15.41.28:801][929]LogContentBrowser: End creating deferred item NewFolder
+[2021.11.23-15.41.33:795][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/ADS_Idle_Rifle1" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/ADS_Idle_Rifle1.uasset" SILENT=true
+[2021.11.23-15.41.33:799][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/ADS_Idle_Rifle17F397118462173D0B307F6AF0AD622B9.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/ADS_Idle_Rifle1.uasset'
+[2021.11.23-15.41.33:806][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Idle_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Idle_Rifle.uasset" SILENT=true
+[2021.11.23-15.41.33:810][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Idle_RifleCA671545408DE8DF051968AED32FA76E.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Idle_Rifle.uasset'
+[2021.11.23-15.41.33:816][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_AO" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_AO.uasset" SILENT=true
+[2021.11.23-15.41.33:820][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_AO034C0D8D435E7D3F231B74AD9A82C7E3.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_AO.uasset'
+[2021.11.23-15.41.33:827][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_Center" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Center.uasset" SILENT=true
+[2021.11.23-15.41.33:830][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Center4DB2A21941DDF3FD694625ACCEF9D106.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Center.uasset'
+[2021.11.23-15.41.33:837][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_Down" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Down.uasset" SILENT=true
+[2021.11.23-15.41.33:841][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Down8AC7B154483ECD3F5255648D2D287EF6.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Down.uasset'
+[2021.11.23-15.41.33:848][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_Left" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Left.uasset" SILENT=true
+[2021.11.23-15.41.33:852][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Left3848D6514143D9596F873FB1CD1333D2.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Left.uasset'
+[2021.11.23-15.41.33:858][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_LeftDown" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_LeftDown.uasset" SILENT=true
+[2021.11.23-15.41.33:862][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftDownE75C3E3E4E6F24FF808209B171D21BD3.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_LeftDown.uasset'
+[2021.11.23-15.41.33:869][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_LeftUp" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_LeftUp.uasset" SILENT=true
+[2021.11.23-15.41.33:873][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftUpD8842A604981C82F3AF6918FB5847B73.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_LeftUp.uasset'
+[2021.11.23-15.41.33:880][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_Right" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Right.uasset" SILENT=true
+[2021.11.23-15.41.33:883][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Right0507D5CA4FC6D5B70A220B9395B70F14.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Right.uasset'
+[2021.11.23-15.41.33:890][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_RightDown" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_RightDown.uasset" SILENT=true
+[2021.11.23-15.41.33:894][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightDownC4FC37E64F172B19D50050AD489DB8FC.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_RightDown.uasset'
+[2021.11.23-15.41.33:901][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_RightUp" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_RightUp.uasset" SILENT=true
+[2021.11.23-15.41.33:902][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AimOffset/Aim_Rifle_RightUp.Aim_Rifle_RightUp
+[2021.11.23-15.41.33:909][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightUpBC37BC864D102D292D69808682558969.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_RightUp.uasset'
+[2021.11.23-15.41.33:916][357]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/AimOffset/Aim_Rifle_Up" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Up.uasset" SILENT=true
+[2021.11.23-15.41.33:917][357]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/AimOffset/Aim_Rifle_Up.Aim_Rifle_Up
+[2021.11.23-15.41.33:923][357]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Up3C88F021433786F232DD6FBE78879E06.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/AimOffset/Aim_Rifle_Up.uasset'
+[2021.11.23-15.41.33:994][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.41ms
+[2021.11.23-15.41.33:999][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2021.11.23-15.41.34:002][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.41.34:005][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.34:008][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.34:012][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.23-15.41.34:015][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.34:018][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.34:021][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.34:024][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.34:027][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.34:030][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.34:040][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2021.11.23-15.41.34:043][357]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.34:076][357]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/ADS_Idle_Rifle1.ADS_Idle_Rifle1
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_LeftUp.Aim_Rifle_LeftUp
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_LeftDown.Aim_Rifle_LeftDown
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_RightDown.Aim_Rifle_RightDown
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Idle_Rifle.Aim_Idle_Rifle
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_RightUp.Aim_Rifle_RightUp
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_Right.Aim_Rifle_Right
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_Left.Aim_Rifle_Left
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_Down.Aim_Rifle_Down
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_Center.Aim_Rifle_Center
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AnimSequence /Game/AimOffset/Aim_Rifle_Up.Aim_Rifle_Up
+[2021.11.23-15.41.34:076][357]LogContentValidation: Display: Validating AimOffsetBlendSpace /Game/AimOffset/Aim_Rifle_AO.Aim_Rifle_AO
+[2021.11.23-15.41.39:762][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/ADS_Idle_Rifle1" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/ADS_Idle_Rifle1.uasset" SILENT=true
+[2021.11.23-15.41.39:766][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/ADS_Idle_Rifle10ECFB3D64E6E470B19F4828B721E627B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/ADS_Idle_Rifle1.uasset'
+[2021.11.23-15.41.39:774][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_LeftUp" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_LeftUp.uasset" SILENT=true
+[2021.11.23-15.41.39:778][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftUp5C1E8C5147A9A6D6A6513291B0520369.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_LeftUp.uasset'
+[2021.11.23-15.41.39:789][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftDown913A2D504753EBF4124DE0A651CF7F6F.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_LeftDown.uasset'
+[2021.11.23-15.41.39:801][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightDownA9627664474AF1ADF514D389179165A7.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_RightDown.uasset'
+[2021.11.23-15.41.39:809][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Idle_Rifle" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Idle_Rifle.uasset" SILENT=true
+[2021.11.23-15.41.39:813][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Idle_Rifle8E259E9646E511EC5E1C809FD6B36198.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Idle_Rifle.uasset'
+[2021.11.23-15.41.39:821][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_RightUp" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_RightUp.uasset" SILENT=true
+[2021.11.23-15.41.39:825][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightUp4BE3D04D41E7E8CAEC0ADA8C1C3BE74F.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_RightUp.uasset'
+[2021.11.23-15.41.39:832][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_Right" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Right.uasset" SILENT=true
+[2021.11.23-15.41.39:836][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Right0AE334B94DAD3396027419A02A2BCA7C.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Right.uasset'
+[2021.11.23-15.41.39:843][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_Left" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Left.uasset" SILENT=true
+[2021.11.23-15.41.39:847][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Left5BE8FF3F4D53D296283909B8A48A95EA.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Left.uasset'
+[2021.11.23-15.41.39:854][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_Down" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Down.uasset" SILENT=true
+[2021.11.23-15.41.39:858][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Down5341C7664B7FA341C3E9888B33960BA4.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Down.uasset'
+[2021.11.23-15.41.39:865][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_Center" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Center.uasset" SILENT=true
+[2021.11.23-15.41.39:869][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Center9788F60448A11CF28F62F4906F70B277.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Center.uasset'
+[2021.11.23-15.41.39:877][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_Up" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Up.uasset" SILENT=true
+[2021.11.23-15.41.39:881][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_UpAB0F2E3D415A48973B8C4CBD67B84679.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_Up.uasset'
+[2021.11.23-15.41.39:888][901]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Eric/AimOffset/Aim_Rifle_AO" FILE="D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_AO.uasset" SILENT=true
+[2021.11.23-15.41.39:893][901]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_AOFAE522BD46C2382C047C53A010713F61.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/AimOffset/Aim_Rifle_AO.uasset'
+[2021.11.23-15.41.39:958][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2021.11.23-15.41.39:962][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.23-15.41.39:965][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.39:968][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.17ms
+[2021.11.23-15.41.39:971][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.39:974][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.39:978][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.39:981][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.39:984][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.39:987][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-15.41.39:991][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.39:994][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.40:002][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2021.11.23-15.41.40:005][901]LogUObjectHash: Compacting FUObjectHashTables data took   0.21ms
+[2021.11.23-15.41.40:040][901]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/ADS_Idle_Rifle1.ADS_Idle_Rifle1
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_LeftUp.Aim_Rifle_LeftUp
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_LeftDown.Aim_Rifle_LeftDown
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_RightDown.Aim_Rifle_RightDown
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Idle_Rifle.Aim_Idle_Rifle
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_RightUp.Aim_Rifle_RightUp
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_Right.Aim_Rifle_Right
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_Left.Aim_Rifle_Left
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_Down.Aim_Rifle_Down
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_Center.Aim_Rifle_Center
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AnimSequence /Game/Eric/AimOffset/Aim_Rifle_Up.Aim_Rifle_Up
+[2021.11.23-15.41.40:040][901]LogContentValidation: Display: Validating AimOffsetBlendSpace /Game/Eric/AimOffset/Aim_Rifle_AO.Aim_Rifle_AO
+[2021.11.23-15.41.45:601][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/ADS_Idle_Rifle19C25967F4D77D8D31CEB039D5AC4E5AC.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/ADS_Idle_Rifle1.uasset'
+[2021.11.23-15.41.45:613][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftUp2D3AB38848E727A3BE8C0E8053CD61E9.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_LeftUp.uasset'
+[2021.11.23-15.41.45:625][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_LeftDown2ECD3B174A4B43A9782642B56C5E6C14.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_LeftDown.uasset'
+[2021.11.23-15.41.45:636][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightDown93570D9448B27769A8FD8D9B3F751CC6.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_RightDown.uasset'
+[2021.11.23-15.41.45:648][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Idle_Rifle5BB4C86446ACA47D2808FD956AC31DB0.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Idle_Rifle.uasset'
+[2021.11.23-15.41.45:659][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_RightUpE05162E446DC96309117D8B90DF9F179.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_RightUp.uasset'
+[2021.11.23-15.41.45:671][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Right878A2AFF4AADE98F3F8D67B000D441F7.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_Right.uasset'
+[2021.11.23-15.41.45:683][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_Left213F329B421AED21FD714291C996DEEE.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_Left.uasset'
+[2021.11.23-15.41.45:695][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_DownD8DE42C642AC1151A7FC32854E262E41.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_Down.uasset'
+[2021.11.23-15.41.45:706][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_CenterF32C318845AF253DE8DD4EB2486259C0.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_Center.uasset'
+[2021.11.23-15.41.45:718][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_UpD16A33684DBA2C8AAC1628846F19887B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_Up.uasset'
+[2021.11.23-15.41.45:729][346]LogSavePackage: Moving 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Saved/Aim_Rifle_AO29A9613C49664E334621FDA1185BF98B.tmp' to 'D:/UE_4.26.2_Project/tencent-class-homework2-shoot-game/ShootGame2/Content/Eric/Animations/AimOffset/Aim_Rifle_AO.uasset'
+[2021.11.23-15.41.45:807][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2021.11.23-15.41.45:810][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.45:813][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.45:816][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.45:819][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.45:823][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2021.11.23-15.41.45:826][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.45:829][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.45:832][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.45:835][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.20ms
+[2021.11.23-15.41.45:839][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.19ms
+[2021.11.23-15.41.45:842][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.15ms
+[2021.11.23-15.41.45:851][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.43ms
+[2021.11.23-15.41.45:854][346]LogUObjectHash: Compacting FUObjectHashTables data took   0.16ms
+[2021.11.23-15.41.45:888][346]AssetCheck: New page: Asset Save: multiple assets
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/ADS_Idle_Rifle1.ADS_Idle_Rifle1
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_LeftUp.Aim_Rifle_LeftUp
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_LeftDown.Aim_Rifle_LeftDown
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_RightDown.Aim_Rifle_RightDown
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Idle_Rifle.Aim_Idle_Rifle
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_RightUp.Aim_Rifle_RightUp
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_Right.Aim_Rifle_Right
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_Left.Aim_Rifle_Left
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_Down.Aim_Rifle_Down
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_Center.Aim_Rifle_Center
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AnimSequence /Game/Eric/Animations/AimOffset/Aim_Rifle_Up.Aim_Rifle_Up
+[2021.11.23-15.41.45:888][346]LogContentValidation: Display: Validating AimOffsetBlendSpace /Game/Eric/Animations/AimOffset/Aim_Rifle_AO.Aim_Rifle_AO
+[2021.11.23-15.41.57:722][543]LogAssetEditorSubsystem: Opening Asset editor for SkeletalMesh /Game/Eric/eric_jack.eric_jack
+[2021.11.23-15.41.57:725][543]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_34:PersistentLevel.AnimationEditorPreviewActor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2021.11.23-15.41.57:920][543]LogRenderer: Reallocating scene render targets to support 1288x824 Format 10 NumSamples 1 (Frame:1).
+[2021.11.23-15.42.00:944][830]LogSlate: Window 'eric_jack' being destroyed
+[2021.11.23-15.42.00:947][830]LogSlate: Window 'eric_jack' being destroyed
+[2021.11.23-15.42.00:947][830]LogWorld: UWorld::CleanupWorld for World_28, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.42.00:947][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.42.00:971][830]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.42.00:971][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.42.00:981][830]LogWorld: UWorld::CleanupWorld for World_34, bSessionEnded=true, bCleanupResources=true
+[2021.11.23-15.42.00:982][830]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.11.23-15.42.19:299][172]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.11.23-15.42.19:305][172]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.11.23-15.42.19:310][172]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.11.23-15.42.34:935][ 32]LogContentBrowser: Attempting asset rename: NewBlueprint -> EricCharacter
+[2021.11.23-15.42.34:937][ 32]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.11.23-15.42.40:706][676]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Eric/EricCharacter.EricCharacter
+[2021.11.23-15.42.41:146][676]LogOutputDevice: Warning: 
+
+Script Stack (0 frames):
+
+[2021.11.23-15.42.41:391][676]LogStats: FPlatformStackWalk::StackWalkAndDump -  0.244 s
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: === Handled ensure: ===
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: 
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: Ensure condition failed: DefaultStructInstance.IsValid() && DefaultStructInstance.GetStruct() == this [File:D:/Build/++UE4/Sync/Engine/Source/Runtime/Engine/Private/UserDefinedStruct.cpp] [Line: 424]
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: 
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: Stack: 
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab81f72a9 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab7a396fe UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab7a3f54e UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab6d28ffc UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab6d4a50e UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab7ba882b UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b2259 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaba24e8e4 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab535081e UE4Editor-UnrealEd.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffab6a2ced5 UE4Editor-Engine.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5bf9f2 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb596920 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b2618 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d30d0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d30d0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7639ed UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eb962 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eba29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb773355 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d448c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d3120 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d30d0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d30d0 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7a8d6a UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7700e4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7639ed UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eb962 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eba29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb773355 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d448c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb5d3120 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7b260d UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7716cd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb771bdb UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7aa27c UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb9390d5 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7639ed UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eb962 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:391][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7eba29 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb7e9f57 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb773355 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb762b1b UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffabda14fe2 UE4Editor-Core.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb8a25dd UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb8a43b4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb747e34 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb745ffc UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb8394a4 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: [Callstack] 0x00007ffaeb837a90 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2021.11.23-15.42.41:392][676]LogOutputDevice: Error: 
